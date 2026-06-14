@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611571573253",
+    "project_id": "resqbite-6879d",
+    "storage_bucket": "resqbite-6879d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611571573253:android:76cd977589e821414cb26c",
+        "android_client_info": {
+          "package_name": "com.example.a210139_fatin_drnazatul_project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi3Kqzht0tGxMnk7a2fvtvBTFEvgL6xJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
